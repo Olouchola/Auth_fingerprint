@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715513954352",
+    "project_id": "myah-c3750",
+    "storage_bucket": "myah-c3750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715513954352:android:3f53f997cb3b68dbcc2df5",
+        "android_client_info": {
+          "package_name": "com.example.auth_myah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715513954352-su7s00q2467vo3e0ch6d6f3tm44rvg4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_myah",
+            "certificate_hash": "06ecb130ef366e389f187613cffbd9b4abf69b08"
+          }
+        },
+        {
+          "client_id": "715513954352-trfpcc38a58mta7j7jh4gs9e281q2jv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnZh0h3ijKHo_-lqAlCbGCobs_Md_wcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715513954352-trfpcc38a58mta7j7jh4gs9e281q2jv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
